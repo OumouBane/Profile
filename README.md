@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Oumou Bane
+# Hi there 👋, I'm Seydou DIAKITE
 
 ## 🚀 About Me
 I'm a **Computer Engineering student** passionate about software development and an AI enthusiast. I love building projects, learning new technologies, and contributing to open-source communities.
