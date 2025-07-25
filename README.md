@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Seydou DIAKITE
 
 ## 🚀 About Me
-I'm a **Computer Engineering student** passionate about software development and an AI enthusiast. I love building projects, learning new technologies, and contributing to open-source communities.
+I'm a **Environment Engineering student** passionate about software development and an AI enthusiast. I love building projects, learning new technologies, and contributing to open-source communities.
 
 - 🔭 Currently working on: Smart Engines Developement.
 - 🌱 Currently learning: Pytgon, PyTorch, AI Agents, N8N
